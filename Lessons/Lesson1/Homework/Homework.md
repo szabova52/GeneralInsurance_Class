@@ -6,16 +6,16 @@ To complete the task answer following questions save your changes and commit to 
                Životné poistenie - dlhodobé - viac ako jeden rok, poistná udalosť nastane len raz
 
 2. **Question:** What's your GitHub ID?  
-   **Answer:** szabova52
+   **Answer:** 47779351
 
 3. **Question:** Why do we use forks (besides eating)?  
    **Answer:** Vytváranie kópií vašich súborov do nášho porfilu, aby sme v nich mohli robiť zmeny bez toho, aby sa nejako ovplynil pôvodný                projekt
 
 4. **Question:** What command is used for sending selected changes to local repository?  
-   **Answer:** pull
+   **Answer:** push
 
 5. **Question:** What command is used for publishing changes for others?  
-   **Answer:** push
+   **Answer:** commit
 
 6. **Question:** How can you compare forks and apply changes to other's fork?  
    **Answer:** pull request
